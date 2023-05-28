@@ -265,7 +265,7 @@ export const copyright = {
     name: 'Contact us',
     href: '/',
   },
-  copyText: 'Copyright @ 2022 xpence',
+  copyText: 'Copyright @ 2023 Chat Chat',
   social: [
     { icon: FacebookIcon, href: '/' },
     { icon: TwitterIcon, href: '/' },

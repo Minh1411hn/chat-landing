@@ -20,8 +20,8 @@ module.exports = {
       colors: {
         dark: '#292830',
         light: '#BDBDBD',
-        accent: '#FF7235',
-        accentHover: '#e05216',
+        accent: '#696cff',
+        accentHover: '#5A5CD2',
         grey: '#F5F5F5',
       },
       backgroundImage: {

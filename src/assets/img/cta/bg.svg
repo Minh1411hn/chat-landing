@@ -1,5 +1,5 @@
 <svg width="1440" height="750" viewBox="0 0 1440 750" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="1440" height="750" fill="#FF7235"/>
+<rect width="1440" height="750" fill="#696cff"/>
 <g opacity="0.8">
 <mask id="mask0_1205_323" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="750">
 <rect width="1440" height="750" fill="#FF7235"/>
@@ -11,11 +11,11 @@
 </g>
 <defs>
 <linearGradient id="paint0_linear_1205_323" x1="94.3065" y1="292" x2="94.3065" y2="857.88" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF7235" stop-opacity="0.4"/>
+<stop stop-color="#E7E7FD" stop-opacity="0.4"/>
 <stop offset="1" stop-color="white" stop-opacity="0.4"/>
 </linearGradient>
 <linearGradient id="paint1_linear_1205_323" x1="1323.07" y1="476.339" x2="1323.07" y2="-220" gradientUnits="userSpaceOnUse">
-<stop stop-color="#FF7235" stop-opacity="0.4"/>
+<stop stop-color="#E7E7FD" stop-opacity="0.4"/>
 <stop offset="1" stop-color="white" stop-opacity="0.4"/>
 </linearGradient>
 </defs>

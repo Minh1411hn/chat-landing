@@ -41,10 +41,10 @@ export const nav = [
 ];
 
 export const hero = {
-  title: 'Track your Expenses to Save Money',
-  subtitle: 'Helps you to organize your income and expenses',
+  title: 'Shorten Your Links with Shortie!',
+  subtitle: 'Your One-Stop Destination for Fast and Easy Link Shortening!',
   btnText: 'Try free demo',
-  compText: '— Web, iOS and Android',
+  compText: '— No Credit Card Required',
   image: HeroImg,
 };
 
@@ -76,8 +76,8 @@ export const overview = {
 
 export const features = {
   feature1: {
-    pretitle: 'Alwalys online',
-    title: 'Real-time support with cloud',
+    pretitle: '24/7 Support',
+    title: 'Real-time Video-call support',
     subtitle:
       'Tellus lacus morbi sagittis lacus in. Amet nisl at mauris enim accumsan nisi, tincidunt vel. Enim ipsum, amet quis ullamcorper eget ut.',
     btnLink: 'Learn more',
@@ -85,8 +85,8 @@ export const features = {
     image: Feature1Img,
   },
   feature2: {
-    pretitle: 'Free some cost',
-    title: 'Save cost for you and family',
+    pretitle: 'Next-Level Performance',
+    title: 'Powerful Features for Link Shortening',
     subtitle:
       'Tellus lacus morbi sagittis lacus in. Amet nisl at mauris enim accumsan nisi, tincidunt vel. Enim ipsum, amet quis ullamcorper eget ut.',
     btnLink: 'Learn more',
@@ -94,8 +94,8 @@ export const features = {
     image: Feature2Img,
   },
   feature3: {
-    pretitle: 'Use anytime',
-    title: 'Use anytime when you need',
+    pretitle: 'Seamless Integration',
+    title: 'Connect Apps with API Support',
     subtitle:
       'Tellus lacus morbi sagittis lacus in. Amet nisl at mauris enim accumsan nisi, tincidunt vel. Enim ipsum, amet quis ullamcorper eget ut.',
     btnLink: 'Learn more',
@@ -137,9 +137,9 @@ export const pricing = {
       icon: PricingIcon1,
       title: 'Starter Plan',
       services: [
-        { name: 'Store unlimited data' },
-        { name: 'Export to pdf, xls, csv' },
-        { name: 'Cloud server support' },
+        { name: 'Unlimited Shorties' },
+        { name: 'Export your click metrics' },
+        { name: 'Customize Url' },
       ],
       price: '$9.99',
       userAmount: 'up to 3 user + 1.99 per user',
@@ -150,9 +150,9 @@ export const pricing = {
       icon: PricingIcon2,
       title: 'Silver Plan',
       services: [
-        { name: 'Store unlimited data' },
-        { name: 'Export to pdf, xls, csv' },
-        { name: 'Cloud server support' },
+        { name: 'Unlimited Shorties' },
+        { name: 'Export your click metrics' },
+        { name: 'Customize Url' },
       ],
       price: '$19.99',
       userAmount: 'up to 3 user + 1.99 per user',
@@ -163,9 +163,9 @@ export const pricing = {
       icon: PricingIcon3,
       title: 'Diamond Plan',
       services: [
-        { name: 'Store unlimited data' },
-        { name: 'Export to pdf, xls, csv' },
-        { name: 'Cloud server support' },
+        { name: 'Unlimited Shorties' },
+        { name: 'Export your click metrics' },
+        { name: 'Customize Url' },
       ],
       price: '$29.99',
       userAmount: 'up to 3 user + 1.99 per user',
@@ -222,7 +222,7 @@ export const testimonials = {
 };
 
 export const cta = {
-  title: '20M+ downloaded from 32 different countries',
+  title: '2000+ company from 32 different countries',
   subtitle: 'Try demo for 7 days with full features.',
   btnText: 'Try free demo',
   img1: CtaImg1,
@@ -265,7 +265,7 @@ export const copyright = {
     name: 'Contact us',
     href: '/',
   },
-  copyText: 'Copyright @ 2023 Chat Chat',
+  copyText: 'Copyright @ 2023 Shortie',
   social: [
     { icon: FacebookIcon, href: '/' },
     { icon: TwitterIcon, href: '/' },
